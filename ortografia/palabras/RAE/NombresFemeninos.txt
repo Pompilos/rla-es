@@ -2533,6 +2533,7 @@ combinatoria/S
 combustibilidad/kS
 combustión/S
 comedia/S
+comedura/S
 comendadora/S
 comercialización/S
 comezón/S
