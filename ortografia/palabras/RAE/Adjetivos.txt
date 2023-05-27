@@ -7701,6 +7701,7 @@ lorquino/GS
 losino/GS
 lotiforme/S
 lovaniense/S
+loxodrómico/GS
 lozano/GS
 lubricador/GS
 lubricante/S
@@ -9202,6 +9203,7 @@ orquestal/S
 orquidáceo/GS
 orquídeo/SG
 ortodoxo/GS
+ortodrómico/GS
 ortogonal/S
 ortográfico/GS
 ortopédico/GS
