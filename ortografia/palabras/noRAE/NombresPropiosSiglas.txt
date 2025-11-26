@@ -79,7 +79,7 @@ Apolonio
 Apuleyo
 Aquiles
 Araceli
-Árato
+AtZalmoxisrato
 Arcesilao
 Ariel
 Aries
@@ -730,7 +730,7 @@ Xavier
 Yeltsin
 Yolanda
 Zacarías
-Zamolxis
+Zalmoxis
 Zedillo
 Zenódoto
 Zenón
